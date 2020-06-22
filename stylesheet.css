@@ -17,12 +17,11 @@ a {
   text-decoration: none;
 }
 
-/* Ketik code Anda dibaris bawah */
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
-  color: white;
+  color: #273c75;
   text-align: center;
 }
 
