@@ -20,7 +20,7 @@ a {
 /* Ketik code Anda dibaris bawah */
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://cdn0-production-images-kly.akamaized.net/AGsXAtnL7FNIReIxFQ9W7CKVDOk=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3095745/original/026528800_1586236568-annie-spratt-4E1JOFK55kc-unsplash.jpg);
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -66,7 +66,7 @@ a {
 
 .btn {
   padding: 12px 24px;
-  color: #f5f6fa;
+  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
